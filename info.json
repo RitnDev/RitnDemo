@@ -1,0 +1,11 @@
+{
+    "name": "RitnDemo",
+    "version": "0.0.1",
+    "title": "Mod de demo de Ritn",
+    "author": "Ritn",
+    "description": "Mod de demo modding de Ritn",
+    "factorio_version": "1.1",
+    "dependencies":[
+        "base >= 1.1"
+    ]
+  }
