@@ -7,3 +7,4 @@ local RitnProtoRecipe = require(ritnlib.defines.class.prototype.recipe)
 
 
 RitnProtoRecipe("wooden-chest"):changeSubgroup("belt")
+RitnProtoRecipe("iron-chest"):changeSubgroup("belt")
