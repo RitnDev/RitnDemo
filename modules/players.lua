@@ -17,7 +17,7 @@ local function on_player_created(event)
 
         --remote.call('RitnLog', 'trace_event', data)
 
-        log('[RitnDemo] > ' .. game.table_to_json(data)) 
+        log('[RitnDemo] > ' .. helpers.table_to_json(data)) 
         
 
     end
